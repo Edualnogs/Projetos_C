@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/schopen/Documentos/GitHub/Projetos_C",
-      "program": "/home/schopen/Documentos/GitHub/Projetos_C/build/Debug/outDebug",
+      "cwd": "/home/schopen/Documentos/Dev/GitHub/Projetos_C",
+      "program": "/home/schopen/Documentos/Dev/GitHub/Projetos_C/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
